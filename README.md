@@ -1,5 +1,12 @@
 ## Hi I'm Salah Mohamed 👋
 
+<hr>
+
+- 🌱 I’m currently Junior Front-end Developer
+
+
+
+
 <!--
 **salahs20/Salahs20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
