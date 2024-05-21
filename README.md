@@ -1,6 +1,6 @@
 ## Hi I'm Salah Mohamed 👋
 
-<hr>
+
 
 - 🌱 I’m currently Junior Front-end Developer
 
